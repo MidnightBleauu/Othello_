@@ -1,2 +1,2 @@
-# Othello_
+# Othello
 Text Based Game of Othello
